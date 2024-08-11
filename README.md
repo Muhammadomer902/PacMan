@@ -21,3 +21,5 @@ The movement of Ghost is Random but faster than that of level 2.
 There is a fruit that spawns after a fixed time interval at a random location.
 There are fixed portal in wall through which you can teleport to other side of maze.
 Game ends once all the coins are collected or lives go to 0.
+Setup Visual studio from this video:-
+https://youtu.be/81UUI8kO1LE?si=xOw0GPfllyXjApdY
