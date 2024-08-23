@@ -1,5 +1,5 @@
 # PacMan
-Pac-Man game using concept of COAL(Computer Organization and Assembly Language) using Irvine32 
+Pac-Man game using concept of COAL(Computer Organization and Assembly Language) using Irvine32 and MASM x86
 The game has a menu which is operated using numbers representing the things in menu, through which you can start game, choose a level, see instructions or exit the game.
 Level 1:-
 There are 3 ghosts and 3 lives which decrement as you collide with ghost and the ghost dies.
